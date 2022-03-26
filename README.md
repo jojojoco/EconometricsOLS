@@ -1,1 +1,1 @@
-# Econometrics---OLS-Regression
+# Econometrics - OLS-Regression
